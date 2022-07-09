@@ -1,0 +1,2 @@
+# FACE-RECOGNITION-ATTENDANCE-DISPLAY-SYSTEM
+As we know that maintaining the attendance is time consuming and a huge task. To overcome the problems, arise, we are going to display attendance using automatic attendance system. Here the images of students are stored in the software so when the student face is detected it recognizes and marks the attendance and stores it in the database and all the records are maintained. So that the time is not wasted, also no fake attendances are given.
